@@ -1,4 +1,4 @@
-![](Lokate.png)
+![](Lokate-1.png)
 
 # create-svelte
 
