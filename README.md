@@ -1,4 +1,5 @@
 ![Preview](Lokate.pdf)
+![](Lokate.pdf)
 
 # create-svelte
 
