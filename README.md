@@ -1,4 +1,4 @@
-![Preview](assets/demo.png)
+![Preview](Lokate.pdf)
 
 # create-svelte
 
